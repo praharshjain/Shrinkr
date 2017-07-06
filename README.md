@@ -4,7 +4,7 @@ A URL shortener written in PHP
 
 Usage
 ----------------
-Import table structure from urldata.sql into MySQL database and edit database credetials in index.php
+Import table structure from urldata.sql into MySQL database and edit database credentials in index.php
 
 License
 ----------------
